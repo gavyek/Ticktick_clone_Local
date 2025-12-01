@@ -1,0 +1,5 @@
+{
+  "name": "PrivateTick",
+  "description": "A privacy-first, self-hosted task management application inspired by TickTick. Features smart lists, custom projects, task details, and a Pomodoro focus timer. Currently uses LocalStorage for zero-setup privacy.",
+  "requestFramePermissions": []
+}
